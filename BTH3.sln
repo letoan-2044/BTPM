@@ -3,25 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225468_NguyenHuuTai_AbstractFactory", "DPM225468_NguyenHuuTai_AbstractFactory\DPM225468_NguyenHuuTai_AbstractFactory.csproj", "{D8032A24-733E-4439-9CDB-861E24BC4346}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225468_NguyenHuuTai_AbstractFactory", "DPM225468_NguyenHuuTai_AbstractFactory\DPM225468_NguyenHuuTai_AbstractFactory.csproj", "{D8032A24-733E-4439-9CDB-861E24BC4346}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225468_NguyenHuuTai_AbstractFactory_Real", "DPM225468_NguyenHuuTai_AbstractFactory_Real\DPM225468_NguyenHuuTai_AbstractFactory_Real.csproj", "{FC87D886-6A1B-437E-B2B2-AF2AB0248F4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225468_NguyenHuuTai_AbstractFactory_Real", "DPM225468_NguyenHuuTai_AbstractFactory_Real\DPM225468_NguyenHuuTai_AbstractFactory_Real.csproj", "{FC87D886-6A1B-437E-B2B2-AF2AB0248F4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225468_NguyenHuuTai_Builder", "DPM225468_NguyenHuuTai_Builder\DPM225468_NguyenHuuTai_Builder.csproj", "{B3433C23-D942-400B-94F1-BE2683DE4CDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225468_NguyenHuuTai_Builder", "DPM225468_NguyenHuuTai_Builder\DPM225468_NguyenHuuTai_Builder.csproj", "{B3433C23-D942-400B-94F1-BE2683DE4CDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225468_NguyenHuuTai_Builder_Real", "DPM225468_NguyenHuuTai_Builder_Real\DPM225468_NguyenHuuTai_Builder_Real.csproj", "{E69036BA-9B6D-4EB3-B691-DA0C03E105D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225468_NguyenHuuTai_Builder_Real", "DPM225468_NguyenHuuTai_Builder_Real\DPM225468_NguyenHuuTai_Builder_Real.csproj", "{E69036BA-9B6D-4EB3-B691-DA0C03E105D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225468_NguyenHuuTai_FactoryMethod", "DPM225468_NguyenHuuTai_FactoryMethod\DPM225468_NguyenHuuTai_FactoryMethod.csproj", "{A5272CCF-EA35-445E-93CA-32DB95A9D662}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225468_NguyenHuuTai_FactoryMethod", "DPM225468_NguyenHuuTai_FactoryMethod\DPM225468_NguyenHuuTai_FactoryMethod.csproj", "{A5272CCF-EA35-445E-93CA-32DB95A9D662}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225468_NguyenHuuTai_FactoryMethod_Real", "DPM225468_NguyenHuuTai_FactoryMethod_Real\DPM225468_NguyenHuuTai_FactoryMethod_Real.csproj", "{31925183-09F6-40F7-B5F0-D1EF689D5F18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225468_NguyenHuuTai_FactoryMethod_Real", "DPM225468_NguyenHuuTai_FactoryMethod_Real\DPM225468_NguyenHuuTai_FactoryMethod_Real.csproj", "{31925183-09F6-40F7-B5F0-D1EF689D5F18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225468_NguyenHuuTai_Prototype", "DPM225468_NguyenHuuTai_Prototype\DPM225468_NguyenHuuTai_Prototype.csproj", "{7F844D96-518C-4118-9D05-062892BC25A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225468_NguyenHuuTai_Prototype", "DPM225468_NguyenHuuTai_Prototype\DPM225468_NguyenHuuTai_Prototype.csproj", "{7F844D96-518C-4118-9D05-062892BC25A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225468_NguyenHuuTai_Prototype_Real", "DPM225468_NguyenHuuTai_Prototype_Real\DPM225468_NguyenHuuTai_Prototype_Real.csproj", "{B290A282-7FFE-448A-B2C6-A56C693D8479}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225468_NguyenHuuTai_Prototype_Real", "DPM225468_NguyenHuuTai_Prototype_Real\DPM225468_NguyenHuuTai_Prototype_Real.csproj", "{B290A282-7FFE-448A-B2C6-A56C693D8479}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225468_NguyenHuuTai_Singleton", "DPM225468_NguyenHuuTai_Singleton\DPM225468_NguyenHuuTai_Singleton.csproj", "{FA2F336C-D1AB-4AC5-8F81-62DC02151BC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225468_NguyenHuuTai_Singleton", "DPM225468_NguyenHuuTai_Singleton\DPM225468_NguyenHuuTai_Singleton.csproj", "{FA2F336C-D1AB-4AC5-8F81-62DC02151BC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225468_NguyenHuuTai_Singleton_Real", "DPM225468_NguyenHuuTai_Singleton_Real\DPM225468_NguyenHuuTai_Singleton_Real.csproj", "{54038B5D-1288-4416-8268-357812B7EA29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225468_NguyenHuuTai_Singleton_Real", "DPM225468_NguyenHuuTai_Singleton_Real\DPM225468_NguyenHuuTai_Singleton_Real.csproj", "{54038B5D-1288-4416-8268-357812B7EA29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225468_NguyenHuuTai_Flyweight", "DPM225468_NguyenHuuTai_Flyweight\DPM225468_NguyenHuuTai_Flyweight.csproj", "{EE11D33B-DE09-4E54-B1D5-48998A8A32E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225468_NguyenHuuTai_Flyweight_Real", "DPM225468_NguyenHuuTai_Flyweight_Real\DPM225468_NguyenHuuTai_Flyweight_Real.csproj", "{6BB90D23-6C99-47A6-9A43-E8F74B2C3DC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViDu_Flyweight", "ViDu_Flyweight\ViDu_Flyweight.csproj", "{08D28DAF-D7BE-4C56-8E6A-748CF47908A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +75,18 @@ Global
 		{54038B5D-1288-4416-8268-357812B7EA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54038B5D-1288-4416-8268-357812B7EA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54038B5D-1288-4416-8268-357812B7EA29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE11D33B-DE09-4E54-B1D5-48998A8A32E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE11D33B-DE09-4E54-B1D5-48998A8A32E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE11D33B-DE09-4E54-B1D5-48998A8A32E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE11D33B-DE09-4E54-B1D5-48998A8A32E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BB90D23-6C99-47A6-9A43-E8F74B2C3DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB90D23-6C99-47A6-9A43-E8F74B2C3DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB90D23-6C99-47A6-9A43-E8F74B2C3DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB90D23-6C99-47A6-9A43-E8F74B2C3DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08D28DAF-D7BE-4C56-8E6A-748CF47908A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D28DAF-D7BE-4C56-8E6A-748CF47908A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D28DAF-D7BE-4C56-8E6A-748CF47908A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D28DAF-D7BE-4C56-8E6A-748CF47908A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

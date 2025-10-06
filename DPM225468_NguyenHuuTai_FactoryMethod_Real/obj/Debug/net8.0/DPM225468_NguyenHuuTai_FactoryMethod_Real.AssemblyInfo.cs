@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DPM225468_NguyenHuuTai_FactoryMethod_Real")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7721c0f5b33819b1f046435d8398e8e2940283f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DPM225468_NguyenHuuTai_FactoryMethod_Real")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DPM225468_NguyenHuuTai_FactoryMethod_Real")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
