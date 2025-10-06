@@ -1,0 +1,14 @@
+Z:\DPM225422\Bridge\Pattern\bin\Debug\net8.0\Pattern.exe
+Z:\DPM225422\Bridge\Pattern\bin\Debug\net8.0\Pattern.deps.json
+Z:\DPM225422\Bridge\Pattern\bin\Debug\net8.0\Pattern.runtimeconfig.json
+Z:\DPM225422\Bridge\Pattern\bin\Debug\net8.0\Pattern.dll
+Z:\DPM225422\Bridge\Pattern\bin\Debug\net8.0\Pattern.pdb
+Z:\DPM225422\Bridge\Pattern\obj\Debug\net8.0\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DPM225422\Bridge\Pattern\obj\Debug\net8.0\Pattern.AssemblyInfoInputs.cache
+Z:\DPM225422\Bridge\Pattern\obj\Debug\net8.0\Pattern.AssemblyInfo.cs
+Z:\DPM225422\Bridge\Pattern\obj\Debug\net8.0\Pattern.csproj.CoreCompileInputs.cache
+Z:\DPM225422\Bridge\Pattern\obj\Debug\net8.0\Pattern.dll
+Z:\DPM225422\Bridge\Pattern\obj\Debug\net8.0\refint\Pattern.dll
+Z:\DPM225422\Bridge\Pattern\obj\Debug\net8.0\Pattern.pdb
+Z:\DPM225422\Bridge\Pattern\obj\Debug\net8.0\Pattern.genruntimeconfig.cache
+Z:\DPM225422\Bridge\Pattern\obj\Debug\net8.0\ref\Pattern.dll

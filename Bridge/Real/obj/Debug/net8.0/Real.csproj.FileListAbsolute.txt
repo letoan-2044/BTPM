@@ -1,0 +1,14 @@
+Z:\DPM225422\Bridge\Real\bin\Debug\net8.0\Real.exe
+Z:\DPM225422\Bridge\Real\bin\Debug\net8.0\Real.deps.json
+Z:\DPM225422\Bridge\Real\bin\Debug\net8.0\Real.runtimeconfig.json
+Z:\DPM225422\Bridge\Real\bin\Debug\net8.0\Real.dll
+Z:\DPM225422\Bridge\Real\bin\Debug\net8.0\Real.pdb
+Z:\DPM225422\Bridge\Real\obj\Debug\net8.0\Real.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DPM225422\Bridge\Real\obj\Debug\net8.0\Real.AssemblyInfoInputs.cache
+Z:\DPM225422\Bridge\Real\obj\Debug\net8.0\Real.AssemblyInfo.cs
+Z:\DPM225422\Bridge\Real\obj\Debug\net8.0\Real.csproj.CoreCompileInputs.cache
+Z:\DPM225422\Bridge\Real\obj\Debug\net8.0\Real.dll
+Z:\DPM225422\Bridge\Real\obj\Debug\net8.0\refint\Real.dll
+Z:\DPM225422\Bridge\Real\obj\Debug\net8.0\Real.pdb
+Z:\DPM225422\Bridge\Real\obj\Debug\net8.0\Real.genruntimeconfig.cache
+Z:\DPM225422\Bridge\Real\obj\Debug\net8.0\ref\Real.dll
