@@ -11,37 +11,43 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225500_DuongTriVi_Real01
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225500_DuongTriVi_Real02_Iterator", "DPM225500_DuongTriVi_Real02_Iterator\DPM225500_DuongTriVi_Real02_Iterator.csproj", "{73ECDAC7-AA51-4CDE-911C-9C9693C60766}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Pattern03_Mediator", "DPM225500_DuongTriVi_Pattern03_Mediator\DPM225500_DuongTriVi_Pattern03_Mediator.csproj", "{1414B43C-446F-4DB3-806C-E91E0786C7AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225500_DuongTriVi_Pattern03_Mediator", "DPM225500_DuongTriVi_Pattern03_Mediator\DPM225500_DuongTriVi_Pattern03_Mediator.csproj", "{1414B43C-446F-4DB3-806C-E91E0786C7AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Real03_Mediator", "DPM225500_DuongTriVi_Real03_Mediator\DPM225500_DuongTriVi_Real03_Mediator.csproj", "{5A334B18-35DA-4C25-9382-AE723664263A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225500_DuongTriVi_Real03_Mediator", "DPM225500_DuongTriVi_Real03_Mediator\DPM225500_DuongTriVi_Real03_Mediator.csproj", "{5A334B18-35DA-4C25-9382-AE723664263A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Pattern04_Memento", "DPM225500_DuongTriVi_Pattern04_Memento\DPM225500_DuongTriVi_Pattern04_Memento.csproj", "{4121569B-CF4F-48B0-8FC2-9E21A900FB73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225500_DuongTriVi_Pattern04_Memento", "DPM225500_DuongTriVi_Pattern04_Memento\DPM225500_DuongTriVi_Pattern04_Memento.csproj", "{4121569B-CF4F-48B0-8FC2-9E21A900FB73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Real04_Memento", "DPM225500_DuongTriVi_Real04_Memento\DPM225500_DuongTriVi_Real04_Memento.csproj", "{81049680-CEFC-4DFD-B292-696B86E986CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225500_DuongTriVi_Real04_Memento", "DPM225500_DuongTriVi_Real04_Memento\DPM225500_DuongTriVi_Real04_Memento.csproj", "{81049680-CEFC-4DFD-B292-696B86E986CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Pattern05_Observer", "DPM225500_DuongTriVi_Pattern05_Observer\DPM225500_DuongTriVi_Pattern05_Observer.csproj", "{8281C2D5-2289-4561-A5EF-A55E7E2C6EBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225500_DuongTriVi_Pattern05_Observer", "DPM225500_DuongTriVi_Pattern05_Observer\DPM225500_DuongTriVi_Pattern05_Observer.csproj", "{8281C2D5-2289-4561-A5EF-A55E7E2C6EBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Real05_Observer", "DPM225500_DuongTriVi_Real05_Observer\DPM225500_DuongTriVi_Real05_Observer.csproj", "{D4281F5D-1388-4113-9BE7-336F557B3DDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225500_DuongTriVi_Real05_Observer", "DPM225500_DuongTriVi_Real05_Observer\DPM225500_DuongTriVi_Real05_Observer.csproj", "{D4281F5D-1388-4113-9BE7-336F557B3DDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Pattern06_State", "DPM225500_DuongTriVi_Pattern06_State\DPM225500_DuongTriVi_Pattern06_State.csproj", "{4D41E366-9500-47C9-9857-B571D7B2949F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225500_DuongTriVi_Pattern06_State", "DPM225500_DuongTriVi_Pattern06_State\DPM225500_DuongTriVi_Pattern06_State.csproj", "{4D41E366-9500-47C9-9857-B571D7B2949F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Real06_State", "DPM225500_DuongTriVi_Real06_State\DPM225500_DuongTriVi_Real06_State.csproj", "{D40C38D5-97F3-43CD-9102-9F67D7FE5123}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225500_DuongTriVi_Real06_State", "DPM225500_DuongTriVi_Real06_State\DPM225500_DuongTriVi_Real06_State.csproj", "{D40C38D5-97F3-43CD-9102-9F67D7FE5123}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Pattern07_Strategy", "DPM225500_DuongTriVi_Pattern07_Strategy\DPM225500_DuongTriVi_Pattern07_Strategy.csproj", "{AF1958F5-C614-4B7C-BE49-DCCFF0DDDA79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225500_DuongTriVi_Pattern07_Strategy", "DPM225500_DuongTriVi_Pattern07_Strategy\DPM225500_DuongTriVi_Pattern07_Strategy.csproj", "{AF1958F5-C614-4B7C-BE49-DCCFF0DDDA79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Real07_Strategy", "DPM225500_DuongTriVi_Real07_Strategy\DPM225500_DuongTriVi_Real07_Strategy.csproj", "{D4FD4380-FB06-4A41-9480-1CA566548A89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225500_DuongTriVi_Real07_Strategy", "DPM225500_DuongTriVi_Real07_Strategy\DPM225500_DuongTriVi_Real07_Strategy.csproj", "{D4FD4380-FB06-4A41-9480-1CA566548A89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Pattern08_TemplateMethod", "DPM225500_DuongTriVi_Pattern08_TemplateMethod\DPM225500_DuongTriVi_Pattern08_TemplateMethod.csproj", "{29B51935-14D5-4BD4-A2B5-EE64EFF40CF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225500_DuongTriVi_Pattern08_TemplateMethod", "DPM225500_DuongTriVi_Pattern08_TemplateMethod\DPM225500_DuongTriVi_Pattern08_TemplateMethod.csproj", "{29B51935-14D5-4BD4-A2B5-EE64EFF40CF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Real08_TemplateMethod", "DPM225500_DuongTriVi_Real08_TemplateMethod\DPM225500_DuongTriVi_Real08_TemplateMethod.csproj", "{92A1E564-1238-425D-980B-57D2E7DF0AED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225500_DuongTriVi_Real08_TemplateMethod", "DPM225500_DuongTriVi_Real08_TemplateMethod\DPM225500_DuongTriVi_Real08_TemplateMethod.csproj", "{92A1E564-1238-425D-980B-57D2E7DF0AED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Pattern09_ChainofResponsibility", "DPM225500_DuongTriVi_Pattern09_ChainofResponsibility\DPM225500_DuongTriVi_Pattern09_ChainofResponsibility.csproj", "{9EADDD61-55BA-47B8-8E37-7F1D81EAE53C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225500_DuongTriVi_Pattern09_ChainofResponsibility", "DPM225500_DuongTriVi_Pattern09_ChainofResponsibility\DPM225500_DuongTriVi_Pattern09_ChainofResponsibility.csproj", "{9EADDD61-55BA-47B8-8E37-7F1D81EAE53C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Real09_ChainofResponsibility", "DPM225500_DuongTriVi_Real09_ChainofResponsibility\DPM225500_DuongTriVi_Real09_ChainofResponsibility.csproj", "{A55B42C9-256A-47E6-A045-5CD33DD12BCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225500_DuongTriVi_Real09_ChainofResponsibility", "DPM225500_DuongTriVi_Real09_ChainofResponsibility\DPM225500_DuongTriVi_Real09_ChainofResponsibility.csproj", "{A55B42C9-256A-47E6-A045-5CD33DD12BCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Pattern10_Command", "DPM225500_DuongTriVi_Pattern10_Command\DPM225500_DuongTriVi_Pattern10_Command.csproj", "{D69C4BB8-B431-4250-8FB1-85790FA53686}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225500_DuongTriVi_Pattern10_Command", "DPM225500_DuongTriVi_Pattern10_Command\DPM225500_DuongTriVi_Pattern10_Command.csproj", "{D69C4BB8-B431-4250-8FB1-85790FA53686}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Real10_Command", "DPM225500_DuongTriVi_Real10_Command\DPM225500_DuongTriVi_Real10_Command.csproj", "{B8B63CEB-E5D7-4C12-A60E-039FFB3BAEB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225500_DuongTriVi_Real10_Command", "DPM225500_DuongTriVi_Real10_Command\DPM225500_DuongTriVi_Real10_Command.csproj", "{B8B63CEB-E5D7-4C12-A60E-039FFB3BAEB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Pattern11_AbstractFactory", "DPM225500_DuongTriVi_Pattern11_AbstractFactory\DPM225500_DuongTriVi_Pattern11_AbstractFactory.csproj", "{FFFD41F1-C6DC-4C97-946E-3C293B202A15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Real11_AbstractFactory", "DPM225500_DuongTriVi_Real11_AbstractFactory\DPM225500_DuongTriVi_Real11_AbstractFactory.csproj", "{90F61C32-E1DA-4958-B636-E753313DCD36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225500_DuongTriVi_Pattern12_Builder", "DPM225500_DuongTriVi_Pattern12_Builder\DPM225500_DuongTriVi_Pattern12_Builder.csproj", "{1EE8D3BD-13CA-4A43-85AB-E3ED621B92B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +135,18 @@ Global
 		{B8B63CEB-E5D7-4C12-A60E-039FFB3BAEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8B63CEB-E5D7-4C12-A60E-039FFB3BAEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8B63CEB-E5D7-4C12-A60E-039FFB3BAEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFFD41F1-C6DC-4C97-946E-3C293B202A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFD41F1-C6DC-4C97-946E-3C293B202A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFD41F1-C6DC-4C97-946E-3C293B202A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFD41F1-C6DC-4C97-946E-3C293B202A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F61C32-E1DA-4958-B636-E753313DCD36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F61C32-E1DA-4958-B636-E753313DCD36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F61C32-E1DA-4958-B636-E753313DCD36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F61C32-E1DA-4958-B636-E753313DCD36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE8D3BD-13CA-4A43-85AB-E3ED621B92B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE8D3BD-13CA-4A43-85AB-E3ED621B92B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE8D3BD-13CA-4A43-85AB-E3ED621B92B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE8D3BD-13CA-4A43-85AB-E3ED621B92B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
