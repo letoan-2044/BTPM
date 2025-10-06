@@ -1,0 +1,14 @@
+Z:\BTH3\DPM225468_NguyenHuuTai_AbstractFactory\bin\Debug\net8.0\DPM225468_NguyenHuuTai_AbstractFactory.exe
+Z:\BTH3\DPM225468_NguyenHuuTai_AbstractFactory\bin\Debug\net8.0\DPM225468_NguyenHuuTai_AbstractFactory.deps.json
+Z:\BTH3\DPM225468_NguyenHuuTai_AbstractFactory\bin\Debug\net8.0\DPM225468_NguyenHuuTai_AbstractFactory.runtimeconfig.json
+Z:\BTH3\DPM225468_NguyenHuuTai_AbstractFactory\bin\Debug\net8.0\DPM225468_NguyenHuuTai_AbstractFactory.dll
+Z:\BTH3\DPM225468_NguyenHuuTai_AbstractFactory\bin\Debug\net8.0\DPM225468_NguyenHuuTai_AbstractFactory.pdb
+Z:\BTH3\DPM225468_NguyenHuuTai_AbstractFactory\obj\Debug\net8.0\DPM225468_NguyenHuuTai_AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BTH3\DPM225468_NguyenHuuTai_AbstractFactory\obj\Debug\net8.0\DPM225468_NguyenHuuTai_AbstractFactory.AssemblyInfoInputs.cache
+Z:\BTH3\DPM225468_NguyenHuuTai_AbstractFactory\obj\Debug\net8.0\DPM225468_NguyenHuuTai_AbstractFactory.AssemblyInfo.cs
+Z:\BTH3\DPM225468_NguyenHuuTai_AbstractFactory\obj\Debug\net8.0\DPM225468_NguyenHuuTai_AbstractFactory.csproj.CoreCompileInputs.cache
+Z:\BTH3\DPM225468_NguyenHuuTai_AbstractFactory\obj\Debug\net8.0\DPM225468_NguyenHuuTai_AbstractFactory.dll
+Z:\BTH3\DPM225468_NguyenHuuTai_AbstractFactory\obj\Debug\net8.0\refint\DPM225468_NguyenHuuTai_AbstractFactory.dll
+Z:\BTH3\DPM225468_NguyenHuuTai_AbstractFactory\obj\Debug\net8.0\DPM225468_NguyenHuuTai_AbstractFactory.pdb
+Z:\BTH3\DPM225468_NguyenHuuTai_AbstractFactory\obj\Debug\net8.0\DPM225468_NguyenHuuTai_AbstractFactory.genruntimeconfig.cache
+Z:\BTH3\DPM225468_NguyenHuuTai_AbstractFactory\obj\Debug\net8.0\ref\DPM225468_NguyenHuuTai_AbstractFactory.dll
