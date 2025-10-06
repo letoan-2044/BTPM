@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\DPM225422\\Composite\\Pattern\\Pattern.csproj": {}
+    "Z:\\BTH3\\Composite\\Pattern\\Pattern.csproj": {}
   },
   "projects": {
-    "Z:\\DPM225422\\Composite\\Pattern\\Pattern.csproj": {
+    "Z:\\BTH3\\Composite\\Pattern\\Pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\DPM225422\\Composite\\Pattern\\Pattern.csproj",
+        "projectUniqueName": "Z:\\BTH3\\Composite\\Pattern\\Pattern.csproj",
         "projectName": "Pattern",
-        "projectPath": "Z:\\DPM225422\\Composite\\Pattern\\Pattern.csproj",
+        "projectPath": "Z:\\BTH3\\Composite\\Pattern\\Pattern.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "Z:\\DPM225422\\Composite\\Pattern\\obj\\",
+        "outputPath": "Z:\\BTH3\\Composite\\Pattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

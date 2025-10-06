@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\DPM225422\\Facade\\Real\\Real.csproj",
+      "projectUniqueName": "Z:\\BTH3\\Facade\\Real\\Real.csproj",
       "projectName": "Real",
-      "projectPath": "Z:\\DPM225422\\Facade\\Real\\Real.csproj",
+      "projectPath": "Z:\\BTH3\\Facade\\Real\\Real.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "Z:\\DPM225422\\Facade\\Real\\obj\\",
+      "outputPath": "Z:\\BTH3\\Facade\\Real\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

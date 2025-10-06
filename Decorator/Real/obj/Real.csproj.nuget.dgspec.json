@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\DPM225422\\Decorator\\Real\\Real.csproj": {}
+    "Z:\\BTH3\\Decorator\\Real\\Real.csproj": {}
   },
   "projects": {
-    "Z:\\DPM225422\\Decorator\\Real\\Real.csproj": {
+    "Z:\\BTH3\\Decorator\\Real\\Real.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\DPM225422\\Decorator\\Real\\Real.csproj",
+        "projectUniqueName": "Z:\\BTH3\\Decorator\\Real\\Real.csproj",
         "projectName": "Real",
-        "projectPath": "Z:\\DPM225422\\Decorator\\Real\\Real.csproj",
+        "projectPath": "Z:\\BTH3\\Decorator\\Real\\Real.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "Z:\\DPM225422\\Decorator\\Real\\obj\\",
+        "outputPath": "Z:\\BTH3\\Decorator\\Real\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

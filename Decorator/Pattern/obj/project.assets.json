@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\DPM225422\\Decorator\\Pattern\\Pattern.csproj",
+      "projectUniqueName": "Z:\\BTH3\\Decorator\\Pattern\\Pattern.csproj",
       "projectName": "Pattern",
-      "projectPath": "Z:\\DPM225422\\Decorator\\Pattern\\Pattern.csproj",
+      "projectPath": "Z:\\BTH3\\Decorator\\Pattern\\Pattern.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "Z:\\DPM225422\\Decorator\\Pattern\\obj\\",
+      "outputPath": "Z:\\BTH3\\Decorator\\Pattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
