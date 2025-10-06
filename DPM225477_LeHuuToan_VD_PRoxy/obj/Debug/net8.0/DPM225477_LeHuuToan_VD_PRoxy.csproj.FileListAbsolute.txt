@@ -1,0 +1,14 @@
+Z:\VD\DPM225477_LeHuuToan_VD_PRoxy\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_PRoxy.exe
+Z:\VD\DPM225477_LeHuuToan_VD_PRoxy\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_PRoxy.deps.json
+Z:\VD\DPM225477_LeHuuToan_VD_PRoxy\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_PRoxy.runtimeconfig.json
+Z:\VD\DPM225477_LeHuuToan_VD_PRoxy\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_PRoxy.dll
+Z:\VD\DPM225477_LeHuuToan_VD_PRoxy\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_PRoxy.pdb
+Z:\VD\DPM225477_LeHuuToan_VD_PRoxy\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_PRoxy.GeneratedMSBuildEditorConfig.editorconfig
+Z:\VD\DPM225477_LeHuuToan_VD_PRoxy\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_PRoxy.AssemblyInfoInputs.cache
+Z:\VD\DPM225477_LeHuuToan_VD_PRoxy\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_PRoxy.AssemblyInfo.cs
+Z:\VD\DPM225477_LeHuuToan_VD_PRoxy\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_PRoxy.csproj.CoreCompileInputs.cache
+Z:\VD\DPM225477_LeHuuToan_VD_PRoxy\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_PRoxy.dll
+Z:\VD\DPM225477_LeHuuToan_VD_PRoxy\obj\Debug\net8.0\refint\DPM225477_LeHuuToan_VD_PRoxy.dll
+Z:\VD\DPM225477_LeHuuToan_VD_PRoxy\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_PRoxy.pdb
+Z:\VD\DPM225477_LeHuuToan_VD_PRoxy\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_PRoxy.genruntimeconfig.cache
+Z:\VD\DPM225477_LeHuuToan_VD_PRoxy\obj\Debug\net8.0\ref\DPM225477_LeHuuToan_VD_PRoxy.dll

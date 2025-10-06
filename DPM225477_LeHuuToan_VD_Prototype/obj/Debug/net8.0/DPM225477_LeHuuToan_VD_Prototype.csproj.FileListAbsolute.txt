@@ -1,0 +1,14 @@
+Z:\VD\DPM225477_LeHuuToan_VD_Prototype\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Prototype.exe
+Z:\VD\DPM225477_LeHuuToan_VD_Prototype\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Prototype.deps.json
+Z:\VD\DPM225477_LeHuuToan_VD_Prototype\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Prototype.runtimeconfig.json
+Z:\VD\DPM225477_LeHuuToan_VD_Prototype\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Prototype.dll
+Z:\VD\DPM225477_LeHuuToan_VD_Prototype\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Prototype.pdb
+Z:\VD\DPM225477_LeHuuToan_VD_Prototype\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Prototype.GeneratedMSBuildEditorConfig.editorconfig
+Z:\VD\DPM225477_LeHuuToan_VD_Prototype\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Prototype.AssemblyInfoInputs.cache
+Z:\VD\DPM225477_LeHuuToan_VD_Prototype\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Prototype.AssemblyInfo.cs
+Z:\VD\DPM225477_LeHuuToan_VD_Prototype\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Prototype.csproj.CoreCompileInputs.cache
+Z:\VD\DPM225477_LeHuuToan_VD_Prototype\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Prototype.dll
+Z:\VD\DPM225477_LeHuuToan_VD_Prototype\obj\Debug\net8.0\refint\DPM225477_LeHuuToan_VD_Prototype.dll
+Z:\VD\DPM225477_LeHuuToan_VD_Prototype\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Prototype.pdb
+Z:\VD\DPM225477_LeHuuToan_VD_Prototype\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Prototype.genruntimeconfig.cache
+Z:\VD\DPM225477_LeHuuToan_VD_Prototype\obj\Debug\net8.0\ref\DPM225477_LeHuuToan_VD_Prototype.dll

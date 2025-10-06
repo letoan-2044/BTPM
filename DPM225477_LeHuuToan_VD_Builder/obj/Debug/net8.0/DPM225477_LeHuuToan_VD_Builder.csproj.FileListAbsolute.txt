@@ -1,0 +1,14 @@
+Z:\VD\DPM225477_LeHuuToan_VD_Builder\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Builder.exe
+Z:\VD\DPM225477_LeHuuToan_VD_Builder\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Builder.deps.json
+Z:\VD\DPM225477_LeHuuToan_VD_Builder\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Builder.runtimeconfig.json
+Z:\VD\DPM225477_LeHuuToan_VD_Builder\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Builder.dll
+Z:\VD\DPM225477_LeHuuToan_VD_Builder\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Builder.pdb
+Z:\VD\DPM225477_LeHuuToan_VD_Builder\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Builder.GeneratedMSBuildEditorConfig.editorconfig
+Z:\VD\DPM225477_LeHuuToan_VD_Builder\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Builder.AssemblyInfoInputs.cache
+Z:\VD\DPM225477_LeHuuToan_VD_Builder\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Builder.AssemblyInfo.cs
+Z:\VD\DPM225477_LeHuuToan_VD_Builder\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Builder.csproj.CoreCompileInputs.cache
+Z:\VD\DPM225477_LeHuuToan_VD_Builder\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Builder.dll
+Z:\VD\DPM225477_LeHuuToan_VD_Builder\obj\Debug\net8.0\refint\DPM225477_LeHuuToan_VD_Builder.dll
+Z:\VD\DPM225477_LeHuuToan_VD_Builder\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Builder.pdb
+Z:\VD\DPM225477_LeHuuToan_VD_Builder\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Builder.genruntimeconfig.cache
+Z:\VD\DPM225477_LeHuuToan_VD_Builder\obj\Debug\net8.0\ref\DPM225477_LeHuuToan_VD_Builder.dll

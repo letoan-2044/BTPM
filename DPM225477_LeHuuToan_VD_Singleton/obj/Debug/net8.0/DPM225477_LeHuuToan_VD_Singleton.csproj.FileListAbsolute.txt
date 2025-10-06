@@ -1,0 +1,14 @@
+Z:\VD\DPM225477_LeHuuToan_VD_Singleton\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Singleton.exe
+Z:\VD\DPM225477_LeHuuToan_VD_Singleton\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Singleton.deps.json
+Z:\VD\DPM225477_LeHuuToan_VD_Singleton\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Singleton.runtimeconfig.json
+Z:\VD\DPM225477_LeHuuToan_VD_Singleton\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Singleton.dll
+Z:\VD\DPM225477_LeHuuToan_VD_Singleton\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Singleton.pdb
+Z:\VD\DPM225477_LeHuuToan_VD_Singleton\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+Z:\VD\DPM225477_LeHuuToan_VD_Singleton\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Singleton.AssemblyInfoInputs.cache
+Z:\VD\DPM225477_LeHuuToan_VD_Singleton\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Singleton.AssemblyInfo.cs
+Z:\VD\DPM225477_LeHuuToan_VD_Singleton\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Singleton.csproj.CoreCompileInputs.cache
+Z:\VD\DPM225477_LeHuuToan_VD_Singleton\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Singleton.dll
+Z:\VD\DPM225477_LeHuuToan_VD_Singleton\obj\Debug\net8.0\refint\DPM225477_LeHuuToan_VD_Singleton.dll
+Z:\VD\DPM225477_LeHuuToan_VD_Singleton\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Singleton.pdb
+Z:\VD\DPM225477_LeHuuToan_VD_Singleton\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Singleton.genruntimeconfig.cache
+Z:\VD\DPM225477_LeHuuToan_VD_Singleton\obj\Debug\net8.0\ref\DPM225477_LeHuuToan_VD_Singleton.dll

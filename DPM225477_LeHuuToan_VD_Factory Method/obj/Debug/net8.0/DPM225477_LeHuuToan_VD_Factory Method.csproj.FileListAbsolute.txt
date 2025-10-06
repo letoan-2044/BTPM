@@ -1,0 +1,14 @@
+Z:\VD\DPM225477_LeHuuToan_VD_Factory Method\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Factory Method.exe
+Z:\VD\DPM225477_LeHuuToan_VD_Factory Method\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Factory Method.deps.json
+Z:\VD\DPM225477_LeHuuToan_VD_Factory Method\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Factory Method.runtimeconfig.json
+Z:\VD\DPM225477_LeHuuToan_VD_Factory Method\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Factory Method.dll
+Z:\VD\DPM225477_LeHuuToan_VD_Factory Method\bin\Debug\net8.0\DPM225477_LeHuuToan_VD_Factory Method.pdb
+Z:\VD\DPM225477_LeHuuToan_VD_Factory Method\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+Z:\VD\DPM225477_LeHuuToan_VD_Factory Method\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Factory Method.AssemblyInfoInputs.cache
+Z:\VD\DPM225477_LeHuuToan_VD_Factory Method\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Factory Method.AssemblyInfo.cs
+Z:\VD\DPM225477_LeHuuToan_VD_Factory Method\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Factory Method.csproj.CoreCompileInputs.cache
+Z:\VD\DPM225477_LeHuuToan_VD_Factory Method\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Factory Method.dll
+Z:\VD\DPM225477_LeHuuToan_VD_Factory Method\obj\Debug\net8.0\refint\DPM225477_LeHuuToan_VD_Factory Method.dll
+Z:\VD\DPM225477_LeHuuToan_VD_Factory Method\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Factory Method.pdb
+Z:\VD\DPM225477_LeHuuToan_VD_Factory Method\obj\Debug\net8.0\DPM225477_LeHuuToan_VD_Factory Method.genruntimeconfig.cache
+Z:\VD\DPM225477_LeHuuToan_VD_Factory Method\obj\Debug\net8.0\ref\DPM225477_LeHuuToan_VD_Factory Method.dll
